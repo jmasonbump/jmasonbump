@@ -44,13 +44,6 @@
 <div align="center">
   <h2>🗄️ Past Projects</h2>
     <p>These are projects where I have served in a major role in the past:</p>
-
-
-<div align="center">
-  <h2>🚀 Github Commits</h2>
-    <p>This section highlights my activity on Github, showcasing repositories I am working on. Each commit represents progress or fixes to ongoing projects, reflecting my commitment to continuous improvement and collaborative development. Although I am a lawyer first and foremost, my belief in the democratizing power of open-source technology encourages me to contribute to projects like these where I am able.</p>
-  <img src="https://raw.githubusercontent.com/jmasonbump/jmasonbump/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
-  <img src="https://raw.githubusercontent.com/jmasonbump/jmasonbump/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
 </div>
 
 <h2 align="center" class="section-heading">💻 Programming Languages</h2>
