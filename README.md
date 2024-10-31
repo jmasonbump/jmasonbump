@@ -59,7 +59,7 @@
     <a href="https://figment.io/">
         <img src="https://cryptonary.com/cdn-cgi/image/width=2048/https://cryptonary.s3.eu-west-2.amazonaws.com/wp-content/uploads/2021/08/Figment-1.2.png" alt="Figment" width="400"/>
         <div>
-        <p>I worked for Figment for over 2.5 years, first as a Protocol Analyst and later promoted to Protocol Specialist and Governance Expert. In this role I developed broad expertise across dozens of blockchain protocols and achieved operational excellence in my development of the Protocol Offboarding system and Figment's official policy for engaging in on-chain governance. I attended multiple conferences, most recently delivering a talk at Nebular Summit in Paris called Staking: Modern Building Materials for Contracts about the intersection of law and smart contract technology.<br> I also won the DevOps minigolf tournament.</p>
+        <p>I worked for Figment for over 2.5 years, first as a Protocol Analyst and later promoted to Protocol Specialist and Governance Expert. In this role I developed broad expertise across dozens of blockchain protocols and achieved operational excellence in my development of the Protocol Offboarding system and Figment's official policy for engaging in on-chain governance. I attended multiple conferences, most recently delivering a talk at Nebular Summit in Paris called Staking: Modern Building Materials for Contracts about the intersection of law and smart contract technology. I also won the DevOps minigolf tournament.</p>
     </a>
         
 </div>
