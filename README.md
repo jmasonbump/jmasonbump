@@ -37,7 +37,7 @@
   <a href="https://blockserve.tech">
     <img src="https://static.wixstatic.com/media/0c7b83_21386b91b97b435fa4d2a397b7c6f19d~mv2.png/v1/fill/w_666,h_254,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/transparent%20cropped.png" alt="Blockserve logo" width="400"/>
       <div>
-<p>Blockserve is a provider of legally-significant blockchain services, including on-chain service of legal process. Service is accomplished via airdrop of soulbound NFTs into wallets on supported blockchains which contain process documents on parties that could not otherwise be reached by traditional methods. This service has been used to accomplish alternate service of process in federal court on multiple occasions.</p>
+<p>Blockserve is a provider of legally-significant blockchain services, including on-chain service of legal process. Service is accomplished via airdrop of soulbound NFT of process documents into wallets on supported blockchains controlled by parties that could not otherwise be reached by traditional methods. This service has been used to accomplish alternate service of process in federal court on multiple occasions.</p>
   </a>
   <a href="https:www.blockchainexpertconsulting.com">
     <img src="https://static.wixstatic.com/media/88c71a_e90b0a1b821445b5bbdb25d6f8f052f2~mv2.png/v1/fill/w_716,h_250,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/BEC%20logo.png" alt="Blockchain Expert Consulting Logo" width="400"/>
@@ -47,11 +47,10 @@
   <a href="https://lexdao.org/">
     <img src="https://i0.wp.com/lexdao.org/wp-content/uploads/2023/03/LexDAO-Logo-Working-File-300-x-300-1.png?w=300&ssl=1" alt="LexDAO Logo" width="200"/>
       <div>
-<p>LexDAO is a guild that supports the development of legally-significant technology and legal engineering.<br> I have been a member of LexDAO since 2019 and served as a member of the Operating Committee from 2023-2024.</p>
+<p>LexDAO is a guild that supports the development of legally-significant technology and legal engineering.<br> I have been a LexDAO Member since 2019 and served as a member of the Operating Committee from 2023-2024.</p>
 
 <div align="center">
   <h2>🗄️ Past Projects</h2>
-    <p>These are projects where I have served in a major role in the past:</p>
     <a href="https://docs.sense.finance">
         <img src="https://docs.sense.finance/assets/img/hero.png" alt="Sense Finance" width="200"/>
         <div>
@@ -60,7 +59,7 @@
     <a href="https://figment.io/">
         <img src="https://cryptonary.com/cdn-cgi/image/width=2048/https://cryptonary.s3.eu-west-2.amazonaws.com/wp-content/uploads/2021/08/Figment-1.2.png" alt="Figment" width="400"/>
         <div>
-        <p>I worked for Figment for over 2.5 years, first as a Protocol Analyst and later promoted to Protocol Specialist and Governance Expert. In this role I developed broad expertise across dozens of blockchain protocols and achieved operational excellence in my development of the Protocol Offboarding system and Figment's official policy for engaging in on-chain governance. I attended multiple conferences, most recently delivering a talk at Nebular Summit in Paris called Staking: Modern Building Materials for Contracts about the intersection of law and smart contract technology. I also won the DevOps minigolf tournament.</p>
+        <p>I worked for Figment for over 2.5 years, first as a Protocol Analyst and later promoted to Protocol Specialist and Governance Expert. In this role I developed broad expertise across dozens of blockchain protocols and achieved operational excellence in my development of the Protocol Offboarding system and Figment's official policy for engaging in on-chain governance. I attended multiple conferences, most recently delivering a talk at Nebular Summit in Paris called Staking: Modern Building Materials for Contracts about the intersection of law and smart contract technology.<br> I also won the DevOps minigolf tournament.</p>
     </a>
         
 </div>
